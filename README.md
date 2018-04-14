@@ -4,8 +4,7 @@
 
 新鲜劲儿过去了，就不怎么想折腾了。用issues写博客，也避免了一次次的commit。
 
-### 博客分类
+### 目录
 
-* [推荐](https://github.com/C4droid/Blog/projects/1)
-* [笔记](https://github.com/C4droid/Blog/projects/2)
-* [快查手册](https://github.com/C4droid/Blog/projects/3)
+* [HOME](https://github.com/C4droid/Blog/issues)
+* [书单](https://github.com/C4droid/Blog/issues/44)
