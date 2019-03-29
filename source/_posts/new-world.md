@@ -1,7 +1,7 @@
 ---
 title: 为新世界的诞生送上美好祝福
 date: 2018-10-18 14:35:49
-categories : 异见
+categories: 异见
 tags: [china]
 ---
 
