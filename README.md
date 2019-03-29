@@ -1,10 +1,6 @@
-### 简介
+### 博客地址
+https://blog.c4droid.top
 
-刚接触gh-pages那会儿，感觉挺有意思的的。换主题模板，添加各种功能，不亦乐乎。
-
-新鲜劲儿过去了，就不怎么想折腾了。用issues写博客，也避免了一次次的commit。
-
-### 目录
-
-* [HOME](https://github.com/C4droid/Blog/issues)
-* [书单](https://github.com/C4droid/Blog/issues/44)
+### 操作指北
+这个博客是用 [hexo](https://hexo.io) 来构建的
+仓库拉取到本地后, 执行 `npm install` 解决依赖
