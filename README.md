@@ -1,6 +1,3 @@
-### 博客地址
-https://blog.c4droid.top
+一个基于 issues 的博客。
 
-### 操作指北
-这个博客是用 [hexo](https://hexo.io) 来构建的
-仓库拉取到本地后, 执行 `npm install` 解决依赖
+> 咦！钱塘江上潮信来，今日方知我是我。
